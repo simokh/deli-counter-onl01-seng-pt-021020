@@ -17,7 +17,6 @@ def line(array)
 
   def take_a_number(deli, name)
     deli.push(name)
-  array itself, so several appends may be chained together.
     puts "Welcome, #{name}. You are number #{deli.length} in line."
 
   end
